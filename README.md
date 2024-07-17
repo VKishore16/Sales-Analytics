@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a Customer performance report  (https://github.com/VKishore16/Sales-Analytics/blob/main/Customer%20Performence%20report.pdf)
+    **1.** Create a [Customer performance report](https://github.com/VKishore16/Sales-Analytics/blob/main/Customer%20Performence%20report.pdf)
   
-    **2.** Conduct a comprehensive comparison between  Market performance and sales targets (https://github.com/VKishore16/Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
+    **2.** Conduct a comprehensive comparison between  [Market performance and sales targets](https://github.com/VKishore16/Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
